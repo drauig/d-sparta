@@ -10,3 +10,19 @@ The D-SPARTA program aligns closely with the ECOWAS Vision 2050 strategic pillar
 -	Migration and Free Movement
 -	Regional Infrastructure & Innovation
 -	Institutional Capacity Strengthening
+
+## BACKGROUND & PROBLEM STATEMENT
+
+The West African region faces increasingly complex security challenges across its land borders, maritime corridors, and air pathways. These challenges are driven by rapid population mobility, porous boundary lines, insufficient technological integration, and rising transactional criminal activities. Traditional border surveillance systems in many member states rely heavily on manual processes, fragmented intelligence channels, and limited predictive capabilities, resulting in response delays and reduced operational efficiency.
+Across strategic corridors in West Africa, persistent issues include:
+
+-	Irregular migration and undocumented movements across land borders.
+-	Human trafficking and smuggling networks operating through ECOWAS free-movement zones.
+-	Maritime threats, including piracy, illegal bunkering, pipeline vandalism, and illicit anchorage movements.
+-	Cross-border criminal operations, including arms trafficking, narcotics distribution, and organized syndicates.
+-	Weak interoperability between national agencies, resulting in intelligence silos.
+-	Outdated monitoring technologies that cannot support real-time surveillance or early-warning systems.
+-	Insufficient data infrastructure for managing large-scale security intelligence.
+-	Limited autonomous detection capability, increasing reliance on human intervention.
+  
+The West African security environment has evolved faster than the systems designed to monitor it.
