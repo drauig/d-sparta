@@ -1,6 +1,7 @@
 # D-SPARTA (Drauig Smart Patrol Technology Architecture)
+___
 
-D-SPARTA is an AI-enabled, data-driven border intelligence and monitoring system designed for phased deployment and institutional integration across ECOWAS member states.
+D-SPARTA is an AI-powered, data-driven border intelligence and monitoring system designed for phased deployment and institutional integration across ECOWAS member states.
 
 D-SPARTA addresses a critical regional need: the absence of integrated, real-time border monitoring systems capable of supporting timely, data-informed decision making, and supporting joint interventions by immigration, security, and maritime agencies. Current regional systems remain fragmented, predominantly manual, and limited in predictive capability. This gap enables increased trafficking, irregular migration, illicit border crossings, piracy, pipeline vandalism, and cross-border criminal movement.
 
@@ -26,3 +27,14 @@ Across strategic corridors in West Africa, persistent issues include:
 -	Limited autonomous detection capability, increasing reliance on human intervention.
   
 The West African security environment has evolved faster than the systems designed to monitor it.
+
+### Technological Gaps Identified Across West Africa]
+
+-	Fragmented surveillance systems with no unified regional intelligence layer.
+-	Manual border verification processes vulnerable to evasion and manipulation.
+-	Limited adoption to AI/ML-based threat detection.
+-	Lack of high-performance computing infrastructure needed for real-time analysis.
+-	Weak data integration between immigration, policing, and maritime authorities.
+-	Slow response times, due to absence of autonomous or semi-autonomous patrol models.
+- High operational costs due to human-driven, labour-intensive systems.
+
